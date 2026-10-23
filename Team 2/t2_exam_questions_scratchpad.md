@@ -27,3 +27,8 @@
 * Reproduce: What is the objective of global alignment optimization in multi-image stitching?
 * Apply: An image pair has a median correspondence error of 2.74 pixels, a 90th-percentile error of 4.53 pixels, and a maximum error of 12.08 pixels. What does each value describe about its alignment?
 * Analyze: Why can reducing the alignment error of one image pair increase the error of another pair during global optimization?
+
+* ## Week 7 - Transform
+
+* Reporduce: What types fo image distortions can be caused by folds? 
+* Apply: How can we distinguish fold lines from object boundaries and background textures? 
