@@ -31,4 +31,10 @@
 * ## Week 7 - Transform
 
 * Reporduce: What types fo image distortions can be caused by folds? 
-* Apply: How can we distinguish fold lines from object boundaries and background textures? 
+* Apply: How can we distinguish fold lines from object boundaries and background textures?
+
+## Week 9 — Watershed Transform
+
+* Reproduce: What is the watershed transform, and what is its main purpose in image segmentation?
+* Apply: Given a binary image of two touching human figures in the Crime City map, explain how the watershed transform can be applied to separate them into individual objects.
+* Analyze: Why can the watershed transform cause over-segmentation, and how can marker-controlled watershed help reduce this problem?
