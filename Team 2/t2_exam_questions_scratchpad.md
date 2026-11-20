@@ -30,7 +30,7 @@
 
 * ## Week 7 - Transform
 
-* Reporduce: What types fo image distortions can be caused by folds? 
+* Reporduce: What types of image distortions can be caused by folds? 
 * Apply: How can we distinguish fold lines from object boundaries and background textures?
 
 ## Week 9 — Watershed Transform
@@ -39,9 +39,14 @@
 * Apply: Given a binary image of two touching human figures in the Crime City map, explain how the watershed transform can be applied to separate them into individual objects.
 * Analyze: Why can the watershed transform cause over-segmentation, and how can marker-controlled watershed help reduce this problem?
 
+## Week 11 — Object Detection and Segmentation
+
+* Reproduce: What visual features can be used to distinguish humans from other objects in an image?
+* Apply: What kind of information does a feature map represent from an input image?
+* Analyze: Why might pretrained object detection models perform poorly on Micro–Macro images?
 
 ## Week 12 — CNN
 
 * Reproduce: What is the main purpose of a Convolutional Neural Network?
 * Apply: How does kernel size affect learning in a CNN, depending on whether it is larger or smaller?
-* Analyze: Why do CNNs use pooling?
+* Analyze: A traditional Convolutional Neural Network (CNN) typically consists of an input layer, convolutional layers, activation functions, pooling layers, and fully connected layers. Explain the purpose of pooling layers in a CNN.
