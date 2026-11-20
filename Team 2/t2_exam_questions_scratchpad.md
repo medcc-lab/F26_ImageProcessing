@@ -38,3 +38,10 @@
 * Reproduce: What is the watershed transform, and what is its main purpose in image segmentation?
 * Apply: Given a binary image of two touching human figures in the Crime City map, explain how the watershed transform can be applied to separate them into individual objects.
 * Analyze: Why can the watershed transform cause over-segmentation, and how can marker-controlled watershed help reduce this problem?
+
+
+## Week 12 — CNN
+
+* Reproduce: What is the main purpose of a Convolutional Neural Network?
+* Apply: How does kernel size affect learning in a CNN, depending on whether it is larger or smaller?
+* Analyze: Why do CNNs use pooling?
